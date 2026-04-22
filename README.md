@@ -82,7 +82,7 @@ python main.py
 ### 1 — Clone & enter
 ```bash
 git clone https://github.com/Md-Arshad-Khan/SPS-Corps-2026.git
-cd SPS-Corps-2026
+cd SPS-Corps-2026-V2
 ```
 
 ### 2 — Virtual environment
